@@ -1,4 +1,4 @@
-![Hi there](./assets/header.gif)
+![Hi there](./assets/header8.gif)
 
 <!--
 **Zabrafax/Zabrafax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
