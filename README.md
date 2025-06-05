@@ -1,12 +1,9 @@
 ![Hi there](./assets/header8.gif)
 
-
-<div style="margin-top: -30px"></div>
-
-## 🦄 About me
+<!-- About me -->
+<h2 style="margin-top: -20px">🦄 About me</h2>
 
 <hr style="border: 1px solid #ccc; margin-top: -15px; margin-bottom: -7px">
-<div style="margin-top: -10px; opacity: 0;"></div>
 
 #### I'm a Computer Science student who loves turning ideas into real, functional web applications.
 #### Deeply interested in both frontend and backend development — I enjoy designing responsive, interactive user interfaces just as much as building solid APIs, databases, and application logic.
@@ -15,9 +12,8 @@
 #### Whether it's a personal project, a portfolio website, or a complex web platform — I love the entire process of bringing a concept to life on the web.
 
 
-<div style="margin-top: -20px; opacity: 0;" ></div>
-
-## 📦 Tech Stack
+<!-- Tech stack -->
+<h2 style="margin-top: -10px">📦 Tech Stack</h2>
 
 <hr style="border: 1px solid #ccc; margin-top: -15px; margin-bottom: -7px">
 
