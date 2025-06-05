@@ -4,8 +4,8 @@
 <h2 style="margin-top: -20px">🦄 About me</h2>
 
 <hr style="border: 1px solid #ccc; margin-top: -15px; margin-bottom: -7px">
+<h4>I'm a Computer Science student who loves turning ideas into real, functional web applications.</h4>
 
-#### I'm a Computer Science student who loves turning ideas into real, functional web applications.
 #### Deeply interested in both frontend and backend development — I enjoy designing responsive, interactive user interfaces just as much as building solid APIs, databases, and application logic.
 #### I believe that great software comes from attention to detail, clear code structure, and continuous learning.  
 #### Over time, I’ve worked with various technologies including Java with Spring Boot, JavaScript with the different APIs, as well as system-level projects in C.
