@@ -28,8 +28,8 @@
 <!-- GitHub stats -->
 ## 📊 GitHub Stats
 
-![zabrafax's Stats](https://github-readme-stats.vercel.app/api?username=zabrafax&theme=synthwave&show_icons=true&hide_border=true&count_private=true) 
-![zabrafax's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zabrafax&theme=synthwave&hide_border=true)
+![zabrafax's Stats](https://github-readme-stats.vercel.app/api?username=zabrafax&theme=shades-of-purple&show_icons=true&hide_border=true&count_private=true) 
+![zabrafax's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zabrafax&theme=shades-of-purple&hide_border=true)
 
 
 
